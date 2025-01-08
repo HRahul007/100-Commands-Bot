@@ -19,7 +19,7 @@
     "figlet": "^1.5.0",
     "fs": "0.0.1-security",
     "imdb-api": "^4.2.0",
-    "kitsu": "^9.1.16",
+    "kitsu": "^10.2.0",
     "kitsu.js": "^2.0.0",
     "long": "^4.0.0",
     "mal-scraper": "^2.13.0",
