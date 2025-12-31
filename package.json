@@ -27,7 +27,7 @@
     "moment": "^2.29.4",
     "moment-duration-format": "^2.3.2",
     "ms": "^2.1.2",
-    "noblox.js": "^4.7.3",
+    "noblox.js": "^5.0.1",
     "node-fetch": "^2.6.7",
     "node.js": "0.0.1-security",
     "novelcovid": "^3.0.0",
